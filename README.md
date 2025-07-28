@@ -8,11 +8,11 @@ Components
 
 the following components are used:
 
-1.  Arduino Uno:** This is the microcontroller board that will process the signals from the ultrasonic sensor and control the buzzer.
-2.  HC-SR04 Ultrasonic Sensor:** This sensor is used to measure distances by emitting ultrasonic waves and calculating the time it takes for the waves to return after bouncing off an object. It typically has four pins: VCC, GND, Trig (Trigger), and Echo.
-3.  **Piezo Buzzer:** An electronic component that produces sound when an electrical current is applied to it. It typically has two pins: positive and negative.
-4.  **Breadboard (Optional, but good for prototyping):** While not explicitly shown in use for all connections in the image, a breadboard is generally used to make temporary connections and organize circuits. In this specific image, the connections seem to be directly to the Arduino and the sensor/buzzer.
-5.  **Jumper Wires:** Used to connect the various components to the Arduino board.
+1.  Arduino Uno: This is the microcontroller board that will process the signals from the ultrasonic sensor and control the buzzer.
+2.  HC-SR04 Ultrasonic Sensor: This sensor is used to measure distances by emitting ultrasonic waves and calculating the time it takes for the waves to return after bouncing off an object. It typically has four pins: VCC, GND, Trig (Trigger), and Echo.
+3.  Piezo Buzzer: An electronic component that produces sound when an electrical current is applied to it. It typically has two pins: positive and negative.
+4.  Breadboard (Optional, but good for prototyping): While not explicitly shown in use for all connections in the image, a breadboard is generally used to make temporary connections and organize circuits. In this specific image, the connections seem to be directly to the Arduino and the sensor/buzzer.
+5.  Jumper Wires: Used to connect the various components to the Arduino board.
 
 ### Procedure of Connection
 
